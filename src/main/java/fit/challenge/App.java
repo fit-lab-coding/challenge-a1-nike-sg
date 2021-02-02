@@ -8,6 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        
+        // String result = ImcCalculator.calculate(88, 1.77);
+
+        // System.out.println( result );
     }
 }
